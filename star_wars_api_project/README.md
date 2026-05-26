@@ -8,14 +8,15 @@ This project was created to practice APIs, HTTP requests, JSON, and basic client
 
 ## Project Structure
 
-star_wars_api_project/
-│
-├── server/
-│   ├── api_server.py
-│   └── requirements.txt
-│
-└── client/
-    └── star_wars_api_fetcher.py
+    star_wars_api_project/
+    │
+    ├── server/
+    │   ├── api_server.py
+    │   └── requirements.txt
+    │
+    └── client/
+        └── star_wars_api_fetcher.py
+
 
 
 ## Features
