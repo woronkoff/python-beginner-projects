@@ -1,10 +1,6 @@
-# Star Wars Mini API Project
+### Star Wars Mini API Project
 
-This is a beginner Python project that contains a small Flask API server and a Python client.
-
-The API runs locally and provides Star Wars character data in JSON format. The client sends a request to the local API, receives the JSON response, and prints selected character information.
-
-This project was created to practice APIs, HTTP requests, JSON, and basic client-server communication.
+A small Flask API server and Python client. The server provides character data in JSON format, and the client sends HTTP requests to read and display the data.
 
 ## Project Structure
 
