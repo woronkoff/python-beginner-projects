@@ -24,9 +24,8 @@ A simple command-line to-do list application.
 ### Finance Transaction Analyzer
 A command-line program that analyzes a list of financial transactions.
 
-### Star Wars API Fetcher
-A command-line program that connects to the Star Wars API and downloads character data.
-The program asks the user how many characters they want to fetch, then prints the character names.
+### Star Wars Mini API Project
+A small Flask API server and Python client. The server provides character data in JSON format, and the client sends HTTP requests to read and display the data.
 
 ## Skills Practiced
 
